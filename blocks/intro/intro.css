@@ -28,6 +28,7 @@
     width: 87.7vw;
   }
 }
+
 @media screen and (max-width: 320px) {
   .intro {
     padding-top: 64px;

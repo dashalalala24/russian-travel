@@ -8,7 +8,7 @@
   transition: opacity .6s;
 }
 
-.place__link:hover{
+.place__link:hover {
   opacity: 80%;
 }
 

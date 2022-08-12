@@ -9,8 +9,12 @@
   transition: opacity .6s;
 }
 
-.footer__link:hover{
+.footer__link:hover {
   opacity: 80%;
+}
+
+.footer__link:last-of-type {
+  margin: 0;
 }
 
 @media screen and (max-width: 390px) {
