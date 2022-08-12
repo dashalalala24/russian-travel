@@ -4,4 +4,6 @@
 
 ___
 Проект свёрстан адаптивно с использованием flexbox и grid layout.
-
+___
+### Ссылка на GitHub Pages:
+https://dashalalala24.github.io/russian-travel/

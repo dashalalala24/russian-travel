@@ -6,7 +6,7 @@
   grid-row-end: 4;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 390px) {
   .place__image {
     padding-top: 32px;
   }
