@@ -17,6 +17,12 @@
   margin: 0;
 }
 
+@media screen and (max-width: 768px) {
+  .footer__link {
+    margin-right: 14px;
+  }
+}
+
 @media screen and (max-width: 390px) {
   .footer__link {
     padding-top: 32px;
