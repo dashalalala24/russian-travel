@@ -35,8 +35,4 @@
   .place {
     padding-top: 50px;
   }
-
-  .place:first-of-type {
-    padding: 0;
-  }
 }
